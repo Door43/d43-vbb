@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vbb:home|Door43 (vbb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vbb|d43-vbb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vbb/archive/master.zip|d43-vbb.zip]]
+
+**Recent Changes**
+{{changes>ns = vbb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vbb|Ethnologue data]]
+
